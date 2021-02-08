@@ -1,0 +1,3 @@
+[submodule "walking_human_trajectory_models"]
+	path = walking_human_trajectory_models
+	url = https://github.com/imaroger/walking_human_trajectory_models.git
