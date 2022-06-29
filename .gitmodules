@@ -7,3 +7,6 @@
 [submodule "pair_during_collaborative_carriage"]
 	path = pair_during_collaborative_carriage
 	url = https://github.com/imaroger/pair_during_collaborative_carriage.git
+[submodule "table_trajectories_during_collaborative_carriage"]
+	path = table_trajectories_during_collaborative_carriage
+	url = https://github.com/imaroger/table_trajectories_during_collaborative_carriage.git
